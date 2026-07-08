@@ -54,5 +54,4 @@ From these above models after hyperparameter optimization one model is going to 
 ## Conclusion
 
 - This Project can be used in real-life by Users.
-- 
-- Author - Sanjay Kumar
+
