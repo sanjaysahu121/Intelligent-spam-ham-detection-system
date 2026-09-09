@@ -30,12 +30,12 @@ with open(VECTORIZER_PATH, "rb") as f:
 
 @app.get("/")
 async def home(request: Request):
-    # Yeh aapki main website (front.html) ko load karega
+    
     return templates.TemplateResponse(request, "front.html")
 
 @app.get("/classifier")
 async def classifier_page(request: Request):
-    # Yeh aapke prediction page (index.html) ko load karega
+    
     return templates.TemplateResponse(request, "index.html")
 
 @app.post("/predict")
