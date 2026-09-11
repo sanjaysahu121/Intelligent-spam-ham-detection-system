@@ -2,8 +2,8 @@ myvenv/
 notebook/
 *.ipynb
 *.pptx
-.git/
-.gitignore
 __pycache__/
 *.pyc
+.git/
+.gitignore
 .vscode/
