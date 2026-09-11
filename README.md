@@ -128,6 +128,3 @@ http://localhost:5000
 * **Docker Registry:** [Docker Hub Repository](https://www.google.com/url?sa=E&source=gmail&q=https://hub.docker.com/r/sanjaysahu121/spam-ham-app)
 * **Year:** 2026
 
-```
-
-```
